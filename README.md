@@ -4,4 +4,5 @@ It is basically the small enjoyable playing tool.
 (Sounds will produce when we press the respective key on our keyboard.)
 Basic application of javascript.
 
-![4](https://user-images.githubusercontent.com/69100830/117439235-38caee80-af50-11eb-8ae0-cf71ff255774.jpg)
+![gif](https://user-images.githubusercontent.com/69100830/117463609-7c802100-af6d-11eb-8340-e45d8800b152.gif)
+
