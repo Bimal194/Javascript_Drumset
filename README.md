@@ -1,4 +1,4 @@
-# Javascript_Drumkit
+# Javascript_Drumset
 
 It is basically the small enjoyable playing tool.
 (Sounds will produce when we press the respective key on our keyboard.)
